@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+}
+
+.One {
+    font-style: oblique;
+    margin: 6%;
+    text-transform: uppercase;
+}
+
+.Punch {
+    width: 30%;
+    height: 30%;
+    margin: 1%;
+}
+
+.Man {
+    font-style: italic;
+    color: white;
+    margin: 1%;
+}
